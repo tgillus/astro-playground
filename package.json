@@ -10,15 +10,15 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/node": "8.2.5",
-    "@astrojs/solid-js": "4.2.0",
+    "@astrojs/node": "8.3.0",
+    "@astrojs/solid-js": "4.3.0",
     "@astrojs/tailwind": "5.1.0",
-    "astro": "4.9.2",
+    "astro": "4.10.2",
     "solid-js": "1.8.17",
-    "tailwindcss": "3.4.3"
+    "tailwindcss": "3.4.4"
   },
   "devDependencies": {
-    "prettier": "3.2.5",
+    "prettier": "3.3.2",
     "prettier-plugin-astro": "0.14.0",
     "typescript": "5.4.5"
   }
